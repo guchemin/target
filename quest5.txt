@@ -1,0 +1,10 @@
+Chamemos os interruptores de A, B e C e as salas de 1, 2 e 3
+Primeiro eu ligaria o interruptor A e deixaria ligado durante alguns minutos para esquentas a lâmpada, 
+em seguida eu desligaria o interruptor A e ligaria o B, então eu iria para a sala 1,
+se a luz estiver ligada tenho 1-B, se a luz estiver desligada e quente, tenho 1-A,
+se estiver desligada e fria tenho 1-C. Em seguida vou à sala 2 e sigo o mesmo raciocínio da sala 1,
+sabendo o interruptor das salas 1 e 2, sei o interruptor da sala 3.
+Em resumo: lâmpada acesa - B, lâmpada apagada e quente - A, lâmpada apagada e fria - C
+
+* Já conhecia este problema de um jeito um pouco diferente, tentei achar uma solução mais matemática,
+mas conclui que não era possível, então creio que seja essa solução mesmo.

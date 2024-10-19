@@ -1,0 +1,6 @@
+a) 9 (ímpares)
+b) 128 (potências de 2)
+c) 49 (quadrados dos números inteiros não negativos)
+d) 100 (quadrados dos pares positivos)
+e) 13 (fibonacci)
+f) 200 (número que começam com 'd')
